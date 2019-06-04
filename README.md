@@ -1,2 +1,2 @@
 # v9-bears-team-33
-Add-project-description-here | Voyage-9 | https://chingu.io/
+Rental App | Voyage-9 | https://chingu.io/
